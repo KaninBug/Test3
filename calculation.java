@@ -10,6 +10,7 @@ public class calculation {
         for(int i = 0; i < y; i++) {
             a += a * 2;
         }
+        System.out.println("hello");
         sc.close();
     }
 }
